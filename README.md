@@ -2,7 +2,7 @@
 
 这本书是『English Grammar In Use 4th Edition』的精简版。同时，英文的原版也是本人学习英语语法的参考书籍。因为原书写得通俗易懂，故本人将其翻译成中文，供希望学习实用英语语法的同学参考。该书的原版可以在[ archive.org ](https://archive.org/details/3EnglishGrammarInUse4thEdition)找到。
 
-在这本书里，我去除了原书的习题部分，提取了讲解语法的各个单元。而且，我根据个人需求，添加了一些比较有意思的附录。如：[实用短语](https://bonjourcs.github.io/english-grammar-in-use/#/appendix/interesting-phrases)，希望大家能够喜欢。你可以在[GitHub Pages](https://bonjourcs.github.io/english-grammar-in-use)进行全文阅读。
+在这本书里，我去除了原书的习题部分，提取了讲解语法的各个单元。而且，我根据个人需求，添加了一些比较有意思的附录。如：[实用短语](https://bonjourcs.github.io/english-grammar-in-use/#/appendix/interesting-phrases)，希望大家能够喜欢。你可以在[GitHub Pages](https://rxhaol.github.io/english-grammar-in-use)进行全文阅读。
 
 # 版权声明
 
@@ -13,7 +13,7 @@
 
 但是，您必须：
 
-- 标识作者名称（bonjourcs@github、bonjourcs@gitbook）
+- 标识作者名称（rxhaol@github.com）
 - 不可将该作品用于商业用途
 - 不能更改作品的授权方式
 
